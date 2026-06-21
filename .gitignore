@@ -1,0 +1,4 @@
+# Python IDE
+.idea/
+*.pyc
+__pycache__/
